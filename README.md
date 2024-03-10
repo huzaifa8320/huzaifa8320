@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa8320&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa8320" /> </p>
-
 - 🔭 I’m currently working on [Pet Care clone](https://huzaifa8320.github.io/Pet-Care-Assignment-No-11/)
 
 - 👨‍💻 All of my projects are available at [Not yet](Not yet)
