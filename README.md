@@ -15,5 +15,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="./img/html.png"  width="45" height="45"/><img src="img/css.png" width="35" height="45"/> <img src="img/java.png"  width="45" height="45"/></p>
+<p align="left"><a href="#"><img src="./img/html.png"  width="45" height="45"/></a><a href="#"><img src="img/css.png" width="35" height="45"/></a><a href="#"><img src="img/java.png"  width="45" height="45"/></a></p>
 
