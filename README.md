@@ -1,7 +1,7 @@
 <a href="#"><img src="img/Banner1.png" alt=""></a>
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
-<img align="right" alt="huzaifa8320" width="400" src="./img/Image.gif"
+<a href="#"><img align="right" alt="huzaifa8320" width="400" src="./img/Image.gif"</a>
 🔭 I’m currently working on [Pet Care clone](https://huzaifa8320.github.io/Pet-Care-Assignment-No-11/)
 
 👨‍💻 All of my projects are available at (Not yet Make Portfoil)
