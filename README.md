@@ -4,7 +4,7 @@
 <img align="right" alt="huzaifa8320" width="400" src="./img/Image.gif"
 
   
-🔭 I’m currently working on <a href="https://huzaifa8320.github.io/Pet-Care-Assignment-No-11/" target="_blank">Pet Care clone
+🔭 I’m currently working on <a href="https://huzaifa8320.github.io/Pet-Care-Assignment-No-11/" target="_blank">Pet Care clone</a>
 
 👨‍💻 All of my projects are available at (Not yet Make Portfoil)
 
