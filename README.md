@@ -16,5 +16,5 @@
 <br>
 <p><b>Languages and Tools:</b></p>
 <br>
-<p align="left"><a href="#"><img src="./img/html.png"  width="45" height="45"/></a><a href="#"><img src="img/css.png" width="35" height="45"/></a><a href="#"><img src="img/java.png"  width="45" height="45"/></a><img src="img/Bootstrap logo.png"  width="70" height="50"/></a></p>
+<p align="left"><a href="#"><img src="./img/html.png"  width="45" height="45"/></a><a href="#"><img src="img/css.png" width="35" height="45"/></a><a href="#"><img src="img/java.png"  width="45" height="45"/></a><img src="img/Bootstrap logo.png"  width="80" height="50"/></a></p>
 
