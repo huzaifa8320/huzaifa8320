@@ -6,7 +6,7 @@
   
 🔭 I’m currently working on [Pet Care clone](https://huzaifa8320.github.io/Pet-Care-Assignment-No-11/)
 
-👨‍💻 All of my projects are availale at (Not yet Make Portfoil)
+👨‍💻 All of my projects are availale at https://muhammadhuzaifaportfolio.netlify.app/
 
 📫 How to reach me huzaifa8320@gmail.com
 
