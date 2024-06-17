@@ -1,4 +1,4 @@
-<img src="./img/Orignal 2.png">
+<img src="./img/Back ground.png">
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 <a href="#"><img align="right" alt="huzaifa8320" width="400" src="./img/Image.gif"</a>
