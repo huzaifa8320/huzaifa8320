@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa8320&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa8320" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifa8320" alt="huzaifa8320" /></a> </p>
+<img align="right" alt="huzaifa8320" width="400" src="./img/Image.gif"</a>
 
 - 🔭 I’m currently working on [MH-Connect](https://mh-connect.vercel.app/)
 
