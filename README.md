@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Back End Development**
 
-- 👨‍💻 All of my projects are available at [https://muhammadhuzaifaportfolio.netlify.app/](https://muhammadhuzaifaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://muhammadhuzaifaportfolio.netlify.app/)
 
 - 💬 Ask me about **Ask me about Front End Development (HTML, CSS, Tailwind CSS, Bootstrap , JavaScript, Firebase, React JS, Next JS)**
 
