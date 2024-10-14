@@ -1,27 +1,30 @@
-<img src="./img/Back ground.png">
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
-<h3 align="center">A passionate Web Developer from Pakistan</h3>
-<a href="#"><img align="right" alt="huzaifa8320" width="400" src="./img/Image.gif"</a>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-  
-🔭 I’m currently working on [Pet Care clone](https://huzaifa8320.github.io/Pet-Care-Assignment-No-11/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa8320&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa8320" /> </p>
 
-👨‍💻 All of my projects are availale at [My Portfolio](https://muhammadhuzaifaportfolio.netlify.app/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifa8320" alt="huzaifa8320" /></a> </p>
 
-📫 How to reach me huzaifa8320@gmail.com
+- 🔭 I’m currently working on [MH-Connect](https://mh-connect.vercel.app/)
 
-⚡ Fun fact I am funny 😅
-<br><br>
-<p><b>Connect with me:</b></p>
+- 🌱 I’m currently learning **Back End Development**
+
+- 👨‍💻 All of my projects are available at [https://muhammadhuzaifaportfolio.netlify.app/](https://muhammadhuzaifaportfolio.netlify.app/)
+
+- 💬 Ask me about **Ask me about Front End Development (HTML, CSS, Tailwind CSS, Bootstrap , JavaScript, Firebase, React JS, Next JS)**
+
+- 📫 How to reach me **muhammadhuzaifa8320@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@muhammadhu56002" target="blank"><img align="center" src="./img/Twitter logo (2).png" alt="@muhammadhu56002" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammadhuzaifa8320/" target="blank"><img align="center" src="./img/Linkdin logo.png"  height="35" width="45" /></a>
-<a href="https://fb.com/profile.php?id=61558296560221" target="blank"><img align="center" src="./img/Facebook logo.png" alt="https://www.facebook.com/profile.php?id=61558296560221" height="35" width="65" /></a>
-<a href="https://www.instagram.com/muhammadhuzaifa8320/" target="blank"><img align="center" src="./img/instagram logo.png" alt="https://www.instagram.com/muhammadhuzaifa8320/" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammadhuzaifa8320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadhuzaifa8320/" height="30" width="40" /></a>
 </p>
 
-<br>
-<p><b>Languages and Tools:</b></p>
-<br>
-<p align="left"><a href="#"><img src="./img/html.png"  width="45" height="45"/></a><a href="#"><img src="img/css.png" width="35" height="45"/></a><a href="#"><img src="img/java.png"  width="45" height="45"/></a><img src="img/Bootstrap logo.png"  width="50" height="50"/></a></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa8320&show_icons=true&locale=en&layout=compact" alt="huzaifa8320" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifa8320&show_icons=true&locale=en" alt="huzaifa8320" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa8320&" alt="huzaifa8320" /></p>
