@@ -1,31 +1,65 @@
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+</h3>
+
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">I'm a MERN Stack Developer building cutting-edge web applications that enhance user experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa8320&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa8320" /> </p>
+<div align='center'>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer+👨🏻‍💻;React+%7C+Next+%7C+Tailwind+Expert+🚀;Building+Scalable+Web+Apps+💡" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifa8320" alt="huzaifa8320" /></a> </p>
-<img align="right" alt="huzaifa8320" width="400" src="./img/Image.gif"</a>
+<h3 align="center">
+ 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=huzaifa8320&data=repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
-- 🔭 I’m currently working on [MH-Connect](https://mh-connect.vercel.app/)
+</h3>
 
-- 🌱 I’m currently learning **Back End Development**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=huzaifa8320&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa8320" /> </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio Website](https://muhammadhuzaifaportfolio.netlify.app/)
+<h2 align="left">About Me:</h2>
 
-- 💬 Ask me about **Ask me about Front End Development (HTML, CSS, Tailwind CSS, Bootstrap , JavaScript, Firebase, React JS, Next JS)**
+- 🔭 I'm currently working on **LMS (Learning Management System)** [View Project](https://smit-project-team-h.vercel.app/)
 
-- 📫 How to reach me **muhammadhuzaifa8320@gmail.com**
+- 🌱 I’m currently learning **Advanced Backend Development**
 
-<h3 align="left">Connect with me:</h3>
+- 👨‍💻 My Portfolio: [muhammad-huzaifa-portfolio.vercel.app](https://muhammad-huzaifa-portfolio.vercel.app/)
+
+- 💬 Ask me about **React, Next.js, Tailwind CSS, MongoDB, Express.js, Node.js, HTML, CSS, JavaScript, Ant Design, Shadcn, Cloudinary**
+
+- 📧 Reach me at **muhammadhuzaifa8320@gmail.com**
+
+<h2 align="left">Connect with me:</h2>
+
 <p align="left">
-<a href="https://linkedin.com/in/muhammadhuzaifa8320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadhuzaifa8320/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammadhuzaifa8320" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.instagram.com/muhammadhuzaifa8320" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2 align="left">Languages and Tools:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa8320&show_icons=true&locale=en&layout=compact" alt="huzaifa8320" /></p>
+<p align='left'>
+  <img src="https://skillicons.dev/icons?i=react,next,firebase,js,ts,redux,mongodb,postman,git,github,vercel,netlify,mui,bootstrap,tailwind,css,html" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifa8320&show_icons=true&locale=en" alt="huzaifa8320" /></p>
+<h2 align="left">Github Stats:</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa8320&" alt="huzaifa8320" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa8320"/></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=huzaifa8320&show_icons=true&locale=en&theme=bg_color=bg_color=FFFFF&title_color=007cff&icon_color=000" alt="huzaifa8320" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa8320&show_icons=true&locale=en&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=007cff&icon_color=000" alt="huzaifa8320" height="192px"/></p>
+
+<p>
+  
+[![Muhammad Huzaifa's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifa8320&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
+
+<h3 align="center">
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</h3>
